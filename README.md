@@ -3,11 +3,13 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasankahansajith&label=Profile%20views&color=0e75b6&style=flat" alt="sasankahansajith" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sasankahansajith&label=Profile%20views&color=0e75b6&style=flat" alt="sasankahansajith" /> </p>
 
 - 🔭 I’m currently working on [Online Ticket Reporting System](https://github.com/SasankaHansajith/hdfc-online-ticket-reporting--system.git)
 
 - 🌱 I’m currently learning **Java, React, JavaScript**
+
+- I'm an Undergraduate at SLIIT City Uni
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
